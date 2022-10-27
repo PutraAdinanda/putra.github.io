@@ -16,3 +16,7 @@
 section {
   padding-top: 5rem;
 }
+
+.media img {
+  height: 100px;
+}
